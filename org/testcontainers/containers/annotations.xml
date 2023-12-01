@@ -1,0 +1,7 @@
+<root>
+    <item name='org.testcontainers.containers.PostgreSQLContainer java.lang.String getJdbcUrl()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
